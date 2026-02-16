@@ -102,7 +102,7 @@ body {
     width: min(40vw, 200px);
     aspect-ratio: 1 / 1;
     margin: 0.5rem auto;
-    border-radius: 25%;
+    border-radius: 10% 50%;
     object-fit: cover;
     max-width: 100%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.15);
